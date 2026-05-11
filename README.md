@@ -6,7 +6,6 @@ My personal profile README
 - 🏗️ **Background:** Civil Engineering
 - 🎯 **Goal:** Aspiring **Researcher**
 - 🤖 **Learning:** Currently diving deep into **Machine Learning**
-- 👨‍🏫 **Profession:** Experienced in Teaching
 - 📚 **Passions:** Visiting Historical Places & Reading Books
 
 ### 🛠️ Tech Stack & Skills

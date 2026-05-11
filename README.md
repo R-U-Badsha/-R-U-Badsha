@@ -1,6 +1,6 @@
 # -R-U-Badsha
 My personal profile README
-# Hi there, I'm R-U-Badsha 👋
+# Hi there, I'm Riaj Uddin Badsha 👋
 
 ### 🎓 About Me
 - 🏗️ **Background:** Civil Engineering
